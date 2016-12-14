@@ -1,0 +1,3 @@
+[submodule "BadPassword/BadPassword/bad-passwords-index"]
+	path = BadPassword/BadPassword/bad-passwords-index
+	url = https://github.com/catmanjan/bad-passwords-index.git
